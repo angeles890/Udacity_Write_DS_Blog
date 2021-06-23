@@ -14,6 +14,8 @@ After exploring the data and modifying as needed, I then analyze the data with a
 ## File Descriptions
 Airbnb_Analysis.ipynb is the Jupyter notebook containing the code to support the initial data loads, data assessment and clean up, and the creation of different .png files and the final linear model.
 
+** Note the individual files can be download at the link provided above, and they were ommited due to issues when commiting on git. Removing those files reduce the commit size and allowed me to commit and for that reason they are not included here.
+
 ## Libraries
 On top of the standard python functions, to carry out the analysis in the notebook the following libraries are used:
 - Numpy
